@@ -198,7 +198,7 @@ PROJECTS = [
 
 EXPERIENCE = [
     {
-        "role": "AI Engineer",
+        "role": "Senior AI/ML Engineer",
         "company": "Prasarana Malaysia Berhad",
         "duration": "Nov 2024 - Present",
         "location": "Malaysia · Hybrid",
@@ -222,7 +222,7 @@ EXPERIENCE = [
         ]
     },
     {
-        "role": "DevOps Tester",
+        "role": "DevOps Intern",
         "company": "RHB Banking Group",
         "duration": "Aug 2020 - Feb 2021",
         "location": "Kuala Lumpur · Hybrid",
@@ -265,6 +265,13 @@ EDUCATION = [
 # ============================================================================
 
 CERTIFICATIONS = [
+    {
+        "name": "ASEAN AI Summit Kuala Lumpur 2025",
+        "issuer": "Exhibitor & Participant",
+        "year": 2025,
+        "description": "Exhibited AI/ML solutions at Southeast Asia's premier AI conference",
+        "skills": ["AI Innovation", "Industry Networking", "Tech Exhibition"]
+    },
     {
         "name": "AI Hackathon for Public Sector",
         "issuer": "Microsoft",

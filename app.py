@@ -674,7 +674,7 @@ def render_stats():
         ("4+", "AI Projects Delivered"),
         ("3+", "Years Experience"),
         ("10+", "ML Models Deployed"),
-        ("95%", "Average Accuracy"),
+        ("90%", "Average Accuracy"),
     ]
     
     for col, (value, label) in zip([col1, col2, col3, col4], stats):
@@ -698,7 +698,7 @@ def render_skills():
         with col:
             st.markdown(f"""
             <div class="glass-card">
-                <h3 style="font-size: 1.2rem; margin-bottom: 1rem;">{data['icon']} {category}</h3>
+                <h3 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 1rem; letter-spacing: -0.02em;">{category}</h3>
             </div>
             """, unsafe_allow_html=True)
             for skill, level in data['skills']:
