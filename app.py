@@ -1770,8 +1770,6 @@ def render_contact():
                    color: white; text-decoration: none; font-weight: 600;">📧 Email Me</a>
                 <a href="{PROFILE['linkedin']}" target="_blank" style="background: rgba(255,255,255,0.1); padding: 12px 24px; 
                    border-radius: 12px; color: white; text-decoration: none; font-weight: 600;">💼 LinkedIn</a>
-                <a href="{PROFILE['github']}" target="_blank" style="background: rgba(255,255,255,0.1); padding: 12px 24px; 
-                   border-radius: 12px; color: white; text-decoration: none; font-weight: 600;">🐙 GitHub</a>
             </div>
         </div>
     </div>
